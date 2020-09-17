@@ -1,5 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":2802.6666666666665,"scrollY":1575},
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":2720,"scrollY":640},
 {"id":2,"expanded":true,"name":"arbeta hemifrån","order":2,"parentId":1,"scrollX":546,"scrollY":297}
+{"id":3,"expanded":false,"name":"Volvo Grupprum","order":3,"parentId":1,"scrollX":546,"scrollY":307.3333333333333},
+{"id":4,"expanded":false,"name":"spelutvecklare","order":4,"parentId":1,"scrollX":540.6666666666666,"scrollY":316.6666666666667},
+{"id":5,"expanded":false,"name":"Tanzania","order":5,"parentId":1,"scrollX":2457,"scrollY":1383},
+{"id":6,"expanded":false,"name":"Försvarsmakten","order":6,"parentId":1,"scrollX":2457,"scrollY":1383},
+{"id":7,"expanded":false,"name":"Sjukhus","order":7,"parentId":1,"scrollX":2457,"scrollY":1383}
 ]
