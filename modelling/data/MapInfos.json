@@ -1,11 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Försvarsmakten","order":6,"parentId":7,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
-{"id":2,"expanded":true,"name":"arbeta hemifrån","order":7,"parentId":7,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":3,"expanded":false,"name":"Volvo Grupprum","order":5,"parentId":7,"scrollX":832,"scrollY":640},
-{"id":4,"expanded":true,"name":"spelutvecklare","order":4,"parentId":7,"scrollX":595.6363636363636,"scrollY":335.27272727272725},
-{"id":5,"expanded":false,"name":"Tanzania","order":2,"parentId":7,"scrollX":1092,"scrollY":614.6666666666666},
-null,
-{"id":7,"expanded":true,"name":"h3ll0_w0rld","order":1,"parentId":0,"scrollX":1469.3333333333333,"scrollY":1158},
-{"id":8,"expanded":false,"name":"Sjukhus","order":3,"parentId":7,"scrollX":1092,"scrollY":614.6666666666666}
+{"id":1,"expanded":true,"name":"Försvarsmakten","order":5,"parentId":7,"scrollX":1228.5,"scrollY":691.5},
+{"id":2,"expanded":true,"name":"arbeta hemifrån","order":6,"parentId":7,"scrollX":1228.5,"scrollY":691.5},
+{"id":3,"expanded":false,"name":"Volvo Grupprum","order":4,"parentId":7,"scrollX":1228.5,"scrollY":691.5},
+{"id":4,"expanded":true,"name":"spelutvecklare","order":3,"parentId":7,"scrollX":1228.5,"scrollY":691.5},
+{"id":5,"expanded":false,"name":"Tanzania","order":2,"parentId":7,"scrollX":1228.5,"scrollY":691.5},
+{"id":6,"expanded":false,"name":"Sjukstugan","order":7,"parentId":7,"scrollX":1228.5,"scrollY":691.5},
+{"id":7,"expanded":true,"name":"h3ll0_w0rld","order":1,"parentId":0,"scrollX":1305,"scrollY":679.5}
 ]
