@@ -1,0 +1,10 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Försvarsmakten","order":5,"parentId":7,"scrollX":1638,"scrollY":891},
+{"id":2,"expanded":true,"name":"arbeta hemifrån","order":7,"parentId":7,"scrollX":832,"scrollY":640},
+{"id":3,"expanded":false,"name":"Volvo Grupprum","order":4,"parentId":7,"scrollX":1228.5,"scrollY":691.5},
+{"id":4,"expanded":true,"name":"spelutvecklare","order":3,"parentId":7,"scrollX":655.2,"scrollY":356.4},
+{"id":5,"expanded":false,"name":"Tanzania","order":2,"parentId":7,"scrollX":1228.5,"scrollY":691.5},
+{"id":6,"expanded":false,"name":"Sjukstugan","order":6,"parentId":7,"scrollX":545.6,"scrollY":345.2},
+{"id":7,"expanded":true,"name":"h3ll0_w0rld","order":1,"parentId":0,"scrollX":1622.4,"scrollY":2086.8}
+]
